@@ -15,5 +15,5 @@ WANDA
 ```
 
 ```
-LINTERNA VERDE
+THOR
 ```
