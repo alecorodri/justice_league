@@ -1,4 +1,4 @@
-# Obejetivos de la Repo
+# Obejetivos de la Repo principal
 
 Este una repo de la liga de la justicia
 
