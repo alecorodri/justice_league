@@ -1,15 +1,9 @@
 # CIUDADES
 
-# LIST
+## LIST
 
-```
-GOTHIC CITY
-```
+1. GOTHIC CITY
 
-```
-NEW YORK
-```
+2. NEW YORK
 
-```
-WASHINTONG
-```
+3. WASHINTONG
